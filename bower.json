@@ -1,0 +1,16 @@
+{
+  "name": "smart-models",
+  "version": "1.0.0",
+  "authors": [
+    "Kacper Kula <kacper.kula@gmail.com>"
+  ],
+  "main": "dist/smart-models.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
